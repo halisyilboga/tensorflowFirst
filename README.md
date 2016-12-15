@@ -11,6 +11,14 @@ githubtan indirildikten sonra dosyalar jupyter notebookta direk çalıaşcak şe
 
 gerekli olan network dosyaları da otomatik indirelecektir. Libs klasöründe gerekli yardımcı fonksiyonlar mevcut. 
 
+Anlattığım kodların incelenebilir olması için '.ipynb'  (jupyter notebook) formatını da github eklemeyi ve paylaşmayı uygun buldum. Adım adım hem bir filtre oluşturma hem de sonrasında örnek bir yapay sinir ağının (google inception network) ağırlıklarını incelemenmesi anlatılmıştır. 
+
+github'tan indirildikten sonra dosyalar jupyter notebookta direk çalışacak şekilde ayarlanmıştır. Tensorflow'un öncesinde kurulu olması gerekmektedir. 
+
+gerekli olan Google Inception Ağ dosyası ve etiketler otomatik otomatik ineceği için manuel indirmeye gerek yoktur. 
+
+https://github.com/halisyilboga/tensorflowFirst/tree/master
+
 ## Installation
 Kütüphanaler ile tektek uğraşmak istenmiyor ise aşağıdaki komut note defterine yapıştrılarak bütün bağlı kütüphanelerin kurulması sağlanabilir. 
 ```
